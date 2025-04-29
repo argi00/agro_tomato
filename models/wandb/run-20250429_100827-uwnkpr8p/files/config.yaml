@@ -1,0 +1,709 @@
+_wandb:
+    value:
+        cli_version: 0.19.10
+        m:
+            - "1": conf_mat_7_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": trainer/global_step
+              "6":
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": train/loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": val/loss
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": val/precision
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": train/accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": val/f1
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": val/accuracy
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_3_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.size
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": val/recall
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_2_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table.sha256
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table.path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_8_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": epoch
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_7_table._type
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table._latest_artifact_path
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_4_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_5_table.nrows
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_6_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+            - "1": conf_mat_1_table.ncols
+              "5": 2
+              "6":
+                - 1
+                - 3
+              "7": []
+        python_version: 3.10.10
+        t:
+            "1":
+                - 1
+                - 9
+                - 41
+                - 55
+                - 103
+            "2":
+                - 1
+                - 9
+                - 41
+                - 55
+                - 103
+            "3":
+                - 7
+                - 13
+                - 23
+                - 55
+                - 66
+            "4": 3.10.10
+            "5": 0.19.10
+            "8":
+                - 5
+            "12": 0.19.10
+            "13": linux-x86_64
+        visualize:
+            conf_mat_1:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_1_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_2:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_2_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_3:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_3_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_4:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_4_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_5:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_5_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_6:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_6_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_7:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_7_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+            conf_mat_8:
+                panel_config:
+                    fieldSettings:
+                        Actual: Actual
+                        Predicted: Predicted
+                        nPredictions: nPredictions
+                    panelDefId: wandb/confusion_matrix/v1
+                    stringSettings:
+                        title: Confusion Matrix Curve
+                    transform:
+                        name: tableWithLeafColNames
+                    userQuery:
+                        queryFields:
+                            - args:
+                                - name: runSets
+                                  value: ${runSets}
+                              fields:
+                                - fields: []
+                                  name: id
+                                - fields: []
+                                  name: name
+                                - fields: []
+                                  name: _defaultColorIndex
+                                - args:
+                                    - name: tableKey
+                                      value: conf_mat_8_table
+                                  fields: []
+                                  name: summaryTable
+                              name: runSets
+                panel_type: Vega2
+lr:
+    value: 0.001
