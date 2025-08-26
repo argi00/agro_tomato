@@ -1,4 +1,4 @@
-# 🐳 Workshop Docker - Version Enrichie
+# 🐳 Workshop Docker 
 
 ## 🎯 Vue d'ensemble du Workshop
 
