@@ -5,7 +5,7 @@
 Ce workshop Docker enrichi vous guide de débutant à utilisateur avancé avec :
 - ✅ **Théorie fondamentale** avec exemples visuels
 - ✅ **Exercices pratiques** progressifs et détaillés  
-- ✅ **Applications réelles** (Flask, PostgreSQL, etc.)
+- ✅ **Applications réelles** (Fastapi, PostgreSQL, etc.)
 - ✅ **Bonnes pratiques** de production
 - ✅ **Dépannage** et résolution de problèmes
 - ✅ **Ressources complètes** (cheatsheets, slides)
